@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;rest-with-spring-and-kotlin/src/main/kotlin/br/com/estudo/RestWithSpringAndKotlinApplication.kt&apos; to &apos;Startup.kt&apos;" description="Rename resource &apos;RestWithSpringAndKotlinApplication.kt&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/kotlin/br/com/estudo/RestWithSpringAndKotlinApplication.kt" name="Startup.kt" stamp="1701627899608" updateReferences="true"/>
+</session>
